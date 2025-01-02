@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Healthcare",
+  "sourceName": "contracts/Medical.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601357603a908160198239f35b600080fdfe600080fdfea264697066735822122035ab2c772ee2ecfab5bf57bd090998b25dd583fe80fd66fa22e5d4838414e7c064736f6c63430008110033",
+  "deployedBytecode": "0x600080fdfea264697066735822122035ab2c772ee2ecfab5bf57bd090998b25dd583fe80fd66fa22e5d4838414e7c064736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
